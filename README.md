@@ -1,7 +1,7 @@
 # Repositório de Exercícios - Prog-I
 
 ## Descrição
-Este repositório contém exercícios desenvolvidos em Python durante a disciplina de **Programação I** na Universidade Federal do Mato Grosso (UFMT). Os exercícios abrangem conceitos básicos de programação, como manipulação de variáveis, estrutura de decisão, laços de repetição e listas.
+Este repositório contém exercícios desenvolvidos em Python durante a disciplina de **Programação I** na Universidade Federal do Mato Grosso (UFMT). Os exercícios abrangem conceitos básicos de programação, como manipulação de variáveis, estrutura de decisão, laços de repetição e listas, além de um projeto de jogo em py.
 
 ## Estrutura de Arquivos
 
