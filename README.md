@@ -11,9 +11,8 @@ Este repositório contém exercícios desenvolvidos em Python durante a discipli
 
 ## Tecnologias Utilizadas
 
-- **Linguagem**: Python 3.x
-- **Editor**: VS Code (ou qualquer outro editor de preferência)
-
+- **Linguagem**: Python 3.1
+- **Editor**: VS Code 
 ## Como Executar
 
 1. Certifique-se de ter o Python 3.x instalado na sua máquina.
